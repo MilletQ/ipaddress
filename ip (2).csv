@@ -1,31 +1,4 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-3.101.110.90,80,true,SJC,North America,San Jose,169 ms,8109 kB/s
-13.53.81.150,2083,true,ARN,Europe,Stockholm,193 ms,7611 kB/s
-204.110.223.86,80,true,ORD,North America,Chicago,224 ms,6918 kB/s
-204.110.221.192,80,true,PDX,North America,Portland,203 ms,6488 kB/s
-35.167.93.200,443,true,PDX,North America,Portland,223 ms,6421 kB/s
-13.50.173.22,8443,true,ARN,Europe,Stockholm,201 ms,6332 kB/s
-204.110.223.199,80,true,ORD,North America,Chicago,217 ms,6075 kB/s
-204.110.221.138,80,true,PDX,North America,Portland,211 ms,5947 kB/s
-204.110.221.77,80,true,PDX,North America,Portland,224 ms,5828 kB/s
-13.53.51.77,8080,true,ARN,Europe,Stockholm,177 ms,4516 kB/s
-15.156.203.151,8443,true,DFW,North America,Dallas,255 ms,3060 kB/s
-13.53.132.96,8080,true,ARN,Europe,Stockholm,175 ms,3026 kB/s
-13.51.55.184,2053,true,ARN,Europe,Stockholm,190 ms,2978 kB/s
-13.53.54.176,8080,true,ARN,Europe,Stockholm,178 ms,2217 kB/s
-13.41.76.64,8080,true,LHR,Europe,London,180 ms,1711 kB/s
-99.83.209.185,443,true,IAD,North America,Ashburn,111 ms,1545 kB/s
-204.110.223.167,80,true,CMH,North America,Columbus,234 ms,1442 kB/s
-3.98.54.22,8443,true,YUL,North America,Montréal,251 ms,1146 kB/s
-13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,312 ms,873 kB/s
-204.110.221.112,80,true,SEA,North America,Seattle,204 ms,422 kB/s
-44.227.22.10,443,true,SEA,North America,Seattle,204 ms,281 kB/s
-3.98.73.243,443,true,DFW,North America,Dallas,274 ms,208 kB/s
-50.112.166.63,443,true,SEA,North America,Seattle,204 ms,102 kB/s
-18.135.188.86,443,true,LHR,Europe,London,179 ms,102 kB/s
-3.99.106.179,443,true,DFW,North America,Dallas,273 ms,96 kB/s
-15.157.7.168,443,true,DFW,North America,Dallas,262 ms,77 kB/s
-18.189.94.250,443,true,ORD,North America,Chicago,234 ms,67 kB/s
-3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,297 ms,45 kB/s
-13.49.166.245,443,true,ARN,Europe,Stockholm,193 ms,18 kB/s
-15.156.17.176,8443,true,YUL,North America,Montréal,248 ms,0 kB/s
+166.0.188.128,41443,true,LAX,North America,Los Angeles,175 ms,9174 kB/s
+141.11.86.143,31268,true,FRA,Europe,Frankfurt,411 ms,1192 kB/s
+213.218.254.248,8443,true,NRT,Asia Pacific,Tokyo,227 ms,179 kB/s
